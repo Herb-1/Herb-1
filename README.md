@@ -194,28 +194,24 @@ motto: "Code is poetry written in logic 🖋️"
 <div align="center">
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+<a href="https://panadora.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=safari&logoColor=0d1117" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://www.facebook.com/QUts.Deraz" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 &nbsp;
-<a href="https://discord.gg/YOUR_DISCORD" target="_blank">
+<a href="https://www.instagram.com/quts.deraz/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://discord.gg/hXywGTXwrK" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 &nbsp;
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<a href="mailto:shabbydream01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
