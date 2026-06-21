@@ -1,16 +1,16 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ██╗  ██╗███████╗██████╗ ██████╗        ██╗                        -->
-<!-- ██║  ██║██╔════╝██╔══██╗██╔══██╗      ███║                        -->
-<!-- ███████║█████╗  ██████╔╝██████╔╝█████╗╚██║                        -->
-<!-- ██╔══██║██╔══╝  ██╔══██╗██╔══██╗╚════╝ ██║                        -->
-<!-- ██║  ██║███████╗██║  ██║██████╔╝       ██║                        -->
-<!-- ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝        ╚═╝                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████╗  █████╗ ███╗   ██╗ █████╗ ██████╗  ██████╗ ██████╗  █████╗       ███████╗    -->
+<!-- ██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗      ╚══███╔╝   -->
+<!-- ██████╔╝███████║██╔██╗ ██║███████║██║  ██║██║   ██║██████╔╝███████║ █████╗ ███╔╝    -->
+<!-- ██╔═══╝ ██╔══██║██║╚██╗██║██╔══██║██║  ██║██║   ██║██╔══██╗██╔══██║ ╚════╝███╔╝    -->
+<!-- ██║     ██║  ██║██║ ╚████║██║  ██║██████╔╝╚██████╔╝██║  ██║██║  ██║      ███████╗   -->
+<!-- ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚══════╝   -->
+<!-- ══════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&stroke=00f0ff&strokeWidth=2&text=HERB-1&fontSize=90&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20|%20AI%20Engineer%20|%20Code%20Architect%20⚡&descSize=18&descAlignY=62&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:161b22,100:0d1117&stroke=00f0ff&strokeWidth=2&text=PANADORA-Z&fontSize=90&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20Developer%20|%20AI%20Engineer%20|%20Code%20Architect%20⚡&descSize=18&descAlignY=62&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -19,14 +19,14 @@
 
 <!-- PROFILE VIEWS COUNTER -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Herb-1&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Panadora-z&style=for-the-badge&color=00f0ff&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/Herb-1?tab=followers">
-  <img src="https://img.shields.io/github/followers/Herb-1?style=for-the-badge&color=00f0ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+<a href="https://github.com/Panadora-z?tab=followers">
+  <img src="https://img.shields.io/github/followers/Panadora-z?style=for-the-badge&color=00f0ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/Herb-1?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Herb-1?style=for-the-badge&color=00f0ff&labelColor=0d1117&label=TOTAL+STARS" alt="Stars"/>
+<a href="https://github.com/Panadora-z?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Panadora-z?style=for-the-badge&color=00f0ff&labelColor=0d1117&label=TOTAL+STARS" alt="Stars"/>
 </a>
 
 </div>
@@ -37,7 +37,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
 ```yaml
-name: Herb-1
+name: Panadora-z
 location: Vietnam 🇻🇳
 roles:
   - 🌐 Full-Stack Developer
@@ -130,24 +130,24 @@ motto: "Code is poetry written in logic 🖋️"
 <div align="center">
 
 <!-- GITHUB STATS -->
-<a href="https://github.com/Herb-1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herb-1&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<a href="https://github.com/Panadora-z">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panadora-z&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herb-1&layout=compact&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panadora-z&layout=compact&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- GITHUB STREAK -->
-<a href="https://github.com/Herb-1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Herb-1&theme=radical&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=00f0ff&border=00f0ff&stroke=00f0ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+<a href="https://github.com/Panadora-z">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panadora-z&theme=radical&background=0d1117&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=00f0ff&border=00f0ff&stroke=00f0ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<a href="https://github.com/Herb-1">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Herb-1&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true&custom_title=📊%20Contribution%20Graph" alt="Activity Graph"/>
+<a href="https://github.com/Panadora-z">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panadora-z&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&area_color=00f0ff&hide_border=true&custom_title=📊%20Contribution%20Graph" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -158,7 +158,7 @@ motto: "Code is poetry written in logic 🖋️"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Herb-1&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Panadora-z&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 <!-- NEON DIVIDER -->
@@ -168,9 +168,9 @@ motto: "Code is poetry written in logic 🖋️"
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Herb-1/Herb-1/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Herb-1/Herb-1/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Herb-1/Herb-1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Panadora-z/Panadora-z/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Panadora-z/Panadora-z/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Panadora-z/Panadora-z/output/github-snake-dark.svg" />
   </picture>
 </div>
 
