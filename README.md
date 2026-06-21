@@ -86,7 +86,7 @@ motto: "Code is poetry written in logic 🖋️"
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panadora-z&layout=donut&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false" alt="Top Languages Donut"/>
+<img src="https://quickchart.io/chart?w=350&h=220&bkg=0d1117&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Node.js%22%2C%22Java%22%2C%22Go%22%2C%22PostgreSQL%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B35%2C25%2C20%2C10%2C10%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%2C%22%23339933%22%2C%22%23ED8B00%22%2C%22%2300ADD8%22%2C%22%23316192%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23c9d1d9%22%2C%22fontSize%22%3A14%7D%7D%2C%22doughnutlabel%22%3A%7B%22labels%22%3A%5B%7B%22text%22%3A%22Backend%22%2C%22color%22%3A%22%2300f0ff%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%7D%5D%7D%7D%7D%7D" alt="Backend Languages Donut"/>
 
 </td>
 </tr>
@@ -185,7 +185,7 @@ motto: "Code is poetry written in logic 🖋️"
 <a href="https://github.com/Panadora-z">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Panadora-z&show_icons=true&theme=radical&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panadora-z&layout=compact&theme=radical&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=00f0ff&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://quickchart.io/chart?w=400&h=180&bkg=0d1117&c=%7B%22type%22%3A%22horizontalBar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22Node.js%22%2C%22Java%22%2C%22Go%22%2C%22PostgreSQL%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B90%2C85%2C75%2C60%2C80%5D%2C%22backgroundColor%22%3A%5B%22%233776AB%22%2C%22%23339933%22%2C%22%23ED8B00%22%2C%22%2300ADD8%22%2C%22%23316192%22%5D%2C%22borderWidth%22%3A1%2C%22borderColor%22%3A%22%2300f0ff%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22scales%22%3A%7B%22xAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23c9d1d9%22%2C%22beginAtZero%22%3Atrue%2C%22max%22%3A100%7D%2C%22gridLines%22%3A%7B%22color%22%3A%22%23333%22%7D%7D%5D%2C%22yAxes%22%3A%5B%7B%22ticks%22%3A%7B%22fontColor%22%3A%22%23c9d1d9%22%2C%22fontSize%22%3A14%7D%2C%22gridLines%22%3A%7B%22display%22%3Afalse%7D%7D%5D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Backend%20Proficiency%22%2C%22fontColor%22%3A%22%2300f0ff%22%2C%22fontSize%22%3A18%7D%7D%7D" alt="Backend Proficiency"/>
 </a>
 
 <br/><br/>
